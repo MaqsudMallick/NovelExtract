@@ -2,21 +2,21 @@
 
 This app extracts chapters from web novel site and converts them to pdf so that you can upload them to read on your kindle.
 
-###If you want to run the app just download everything
+### If you want to run the app just download everything
 
-###Then run extractchap.exe
+### Then run extractchap.exe
 
 ![](1.jpg)
 
-###Enter starting index for your chapters
+### Enter starting index for your chapters
 
 ![](2.jpg)
 
-###Add url to chapters line by line
+### Add url to chapters line by line
 
 ![](3.jpg)
 
-###Finally enter 'q' to extract
+### Finally enter 'q' to extract
 
 ![](4.jpg)
 
