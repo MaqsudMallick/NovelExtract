@@ -6,11 +6,11 @@ This app extracts chapters from web novel site and converts them to pdf so that 
 
 ### Then run extractchap.exe
 
-![](1.jpg)
+![](1.JPG)
 
 ### Enter starting index for your chapters
 
-![](2.jpg)
+![](2.JPG)
 
 ### Add url to chapters line by line
 
