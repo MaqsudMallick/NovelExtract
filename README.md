@@ -4,19 +4,19 @@ This app extracts chapters from web novel site and converts them to pdf so that 
 
 #### If you want to run the app just download everything
 
-### Then run extractchap.exe
+#### Then run extractchap.exe
 
 ![](1.JPG)
 
-### Enter starting index for your chapters
+#### Enter starting index for your chapters
 
 ![](2.JPG)
 
-### Add url to chapters line by line
+#### Add url to chapters line by line
 
 ![](3.JPG)
 
-### Finally enter 'q' to extract
+#### Finally enter 'q' to extract
 
 ![](4.jpg)
 
