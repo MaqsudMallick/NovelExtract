@@ -14,7 +14,7 @@ This app extracts chapters from web novel site and converts them to pdf so that 
 
 ### Add url to chapters line by line
 
-![](3.jpg)
+![](3.JPG)
 
 ### Finally enter 'q' to extract
 
